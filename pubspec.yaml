@@ -4,7 +4,7 @@ description: "An efficient and feature rich video player plugin for Flutter appl
   This plugin offers extensive control over video playback, easy integration
   and helps to provide an immersive video experience to the users."
 version: 0.0.1
-homepage:
+homepage: "https://github.com/jieshenghow/flutter_native_video_player"
 
 environment:
   sdk: '>=3.4.4 <4.0.0'
